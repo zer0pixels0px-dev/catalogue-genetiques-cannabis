@@ -1,6 +1,6 @@
 # Wedding Cake
 
-![Wedding Cake](../images/produits/wedding-cake.jpg)
+![Wedding Cake](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Wedding_Cake_Cannabis_Strain.jpg/1280px-Wedding_Cake_Cannabis_Strain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 *Wikimedia Commons — CC BY-SA*
 

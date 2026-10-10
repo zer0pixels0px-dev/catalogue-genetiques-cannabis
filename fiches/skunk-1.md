@@ -1,6 +1,6 @@
 # Skunk #1
 
-![Skunk #1](../images/produits/bud-macro.jpg)
+![Skunk #1](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Cannabis_bloom.JPG/1280px-Cannabis_bloom.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 **Type :** Hybrid (hybride) | **Breeder :** Sacred Seeds (Sam the Skunkman), fin des années 1970 ; introduite en Hollande en 1985. | **THC :** 19–22 %
 

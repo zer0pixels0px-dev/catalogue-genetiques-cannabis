@@ -1,6 +1,6 @@
 # Lemon Cherry Gelato
 
-![Lemon Cherry Gelato](../images/produits/bud-macro.jpg)
+![Lemon Cherry Gelato](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Cannabis_bloom.JPG/1280px-Cannabis_bloom.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 **Type :** Indica (indica-dominant (60/40)) | **Breeder :** Backpack Boyz (seed: Barney's Farm) | **THC :** 22–28 %
 

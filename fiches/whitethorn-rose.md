@@ -1,6 +1,6 @@
 # Whitethorn Rose
 
-![Whitethorn Rose](../images/produits/bud-macro.jpg)
+![Whitethorn Rose](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Cannabis_bloom.JPG/1280px-Cannabis_bloom.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 **Breeder :** Huckleberry Hill Farms
 

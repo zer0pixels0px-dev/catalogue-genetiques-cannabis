@@ -1,6 +1,6 @@
 # NYC Diesel
 
-![NYC Diesel](../images/produits/bud-macro.jpg)
+![NYC Diesel](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Cannabis_bloom.JPG/1280px-Cannabis_bloom.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 **Type :** Sativa (sativa 60/40) | **Breeder :** Soma Seeds, fin des années 1990. | **THC :** 18–22 %
 

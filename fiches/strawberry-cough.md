@@ -1,6 +1,6 @@
 # Strawberry Cough
 
-![Strawberry Cough](../images/produits/bud-macro.jpg)
+![Strawberry Cough](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Cannabis_bloom.JPG/1280px-Cannabis_bloom.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 **Type :** Sativa (sativa ~80/20) | **Breeder :** Kyle Kushman, ~2000 (New York → Californie). | **THC :** 20–25 %
 

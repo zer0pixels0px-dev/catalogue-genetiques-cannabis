@@ -1,6 +1,6 @@
 # Super Lemon Haze
 
-![Super Lemon Haze](../images/produits/bud-macro.jpg)
+![Super Lemon Haze](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Cannabis_bloom.JPG/1280px-Cannabis_bloom.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 **Type :** Sativa (sativa 70–80%) | **Breeder :** Green House Seed Co (Franco Loja), fin des années 2000. | **THC :** 19–26 %
 

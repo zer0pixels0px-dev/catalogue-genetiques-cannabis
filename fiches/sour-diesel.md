@@ -1,6 +1,6 @@
 # Sour Diesel
 
-![Sour Diesel](../images/produits/sour-diesel.jpg)
+![Sour Diesel](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Cannabis_%28Sour_Diesel%29_Flower.jpg/1280px-Cannabis_%28Sour_Diesel%29_Flower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 *Wikimedia Commons — CC BY-SA*
 

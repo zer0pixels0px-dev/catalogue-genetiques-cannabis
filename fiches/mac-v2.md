@@ -1,6 +1,6 @@
 # Mac V2
 
-![Mac V2](../images/produits/bud-macro.jpg)
+![Mac V2](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Cannabis_bloom.JPG/1280px-Cannabis_bloom.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 **Type :** Indica (indica 60/40) | **Breeder :** Capulator Seeds
 

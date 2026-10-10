@@ -1,6 +1,6 @@
 # Super Boof
 
-![Super Boof](../images/produits/bud-macro.jpg)
+![Super Boof](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Cannabis_bloom.JPG/1280px-Cannabis_bloom.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 **Type :** Hybrid (hybride.) | **Breeder :** Blockhead (San Diego) ; créée sous le nom "Blockberry", renommée par le cultivateur Michigan Mobilejay. Source : Leafly (index). | **THC :** ~28 %
 

@@ -1,6 +1,6 @@
 # Sunset Sherbet
 
-![Sunset Sherbet](../images/produits/bud-macro.jpg)
+![Sunset Sherbet](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Cannabis_bloom.JPG/1280px-Cannabis_bloom.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 **Type :** Indica (indica-dominante ~70–75/30) | **Breeder :** Mr. Sherbinski (Mario Guzman), Cookie Fam ; née d'un accident de breeding. | **THC :** 25–30 %
 
