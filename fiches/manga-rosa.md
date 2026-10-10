@@ -1,0 +1,16 @@
+# Manga Rosa
+
+![Manga Rosa](../images/produits/bud-macro.jpg)
+
+**Type :** Sativa
+
+
+Sativa — landrace pure originaire de Brazil. Sativas brésiliennes.
+
+## Lignée
+
+landrace pure ✓ vérifiée
+
+
+
+*Catégorie : Landrace — fiche générée le 2026-10-09.*
