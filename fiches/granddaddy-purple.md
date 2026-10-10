@@ -1,6 +1,6 @@
 # Granddaddy Purple
 
-![Granddaddy Purple](../images/produits/bud-macro.jpg)
+![Granddaddy Purple](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Cannabis_bloom.JPG/1280px-Cannabis_bloom.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 **Type :** Indica (indica-dominante (70–100% selon sources)) | **Breeder :** Ken Estes, Bay Area, 2003. | **THC :** 17–23 %
 

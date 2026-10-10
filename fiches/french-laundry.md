@@ -1,6 +1,6 @@
 # French Laundry
 
-![French Laundry](../images/produits/bud-macro.jpg)
+![French Laundry](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Cannabis_bloom.JPG/1280px-Cannabis_bloom.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 **Type :** Hybrid (hybride équilibré 50/50.) | **Breeder :** Maven Genetics (San Fernando Valley). Source : Leafly review (index). | **THC :** 31–33 %
 

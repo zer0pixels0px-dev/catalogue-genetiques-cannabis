@@ -1,8 +1,8 @@
 # Do-Si-Dos
 
-![Do-Si-Dos](../images/produits/do-si-dos.jpg)
+![Do-Si-Dos](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Dosidos_Cannabis_Strain%2C_grown_by_Archive.jpg/1280px-Dosidos_Cannabis_Strain%2C_grown_by_Archive.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Wikimedia Commons — CC BY-SA 4.0*
+*Wikimedia Commons — CC*
 
 
 **Type :** Hybrid (à dominance indica) | **Breeder :** Archive Seed Bank | **THC :** ~20% (médiane Leafly)

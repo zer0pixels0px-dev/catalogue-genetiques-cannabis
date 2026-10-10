@@ -1,6 +1,6 @@
 # Lantz
 
-![Lantz](../images/produits/bud-macro.jpg)
+![Lantz](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Cannabis_bloom.JPG/1280px-Cannabis_bloom.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 **Type :** Hybrid (hybride.) | **Breeder :** Ridgeline Farms (Jason Gellman, Humboldt). Sources : kindgreenbuds + cookies.co (index). | **THC :** 24–30 %
 

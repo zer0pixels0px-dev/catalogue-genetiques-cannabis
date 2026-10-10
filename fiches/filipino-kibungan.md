@@ -1,6 +1,6 @@
 # Filipino Kibungan
 
-![Filipino Kibungan](../images/produits/bud-macro.jpg)
+![Filipino Kibungan](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Cannabis_bloom.JPG/1280px-Cannabis_bloom.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 **Type :** Sativa
 

@@ -12,29 +12,37 @@ DOCS = os.path.join(ROOT, "docs")
 
 CAT_FR = {"catalogue": "Catalogue", "champion": "Championne", "classique": "Classique",
           "reference": "Référence", "landrace": "Landrace", "perso": "Perso"}
+WMC_URLS = json.load(open(os.path.expanduser("~/workspace/wmc_urls.json")))
+def _wmc(t): return WMC_URLS[t]["url"]
 SPECIFIC_PHOTOS = {
-    "wedding-cake": "produits/wedding-cake.jpg",
-    "sour-diesel": "produits/sour-diesel.jpg",
-    "do-si-dos": "produits/do-si-dos.jpg",
-    "presidential-kush": "produits/presidential-kush.jpg",
+    "wedding-cake": _wmc("File:Wedding Cake Cannabis Strain.jpg"),
+    "sour-diesel": _wmc("File:Cannabis (Sour Diesel) Flower.jpg"),
+    "do-si-dos": _wmc("File:Dosidos Cannabis Strain, grown by Archive.jpg"),
+    "presidential-kush": _wmc("File:Presidential Kush Cannabis Strain.jpg"),
 }
-DEFAULT_PHOTO = "produits/bud-macro.jpg"
+DEFAULT_PHOTO = _wmc("File:Cannabis bloom.JPG")
+CULTURE_PHOTOS = [
+    ("Floraison", _wmc("File:Flowering Cannabis Plants.JPG")),
+    ("Plante en floraison", _wmc("File:Flowering cannabis plant.jpg")),
+    ("Stade végétatif", _wmc("File:Untrained cannabis plant in the vegetative stage.jpg")),
+    ("Jeune plant", _wmc("File:Small cannabis plant growing.jpg")),
+    ("Séchage", _wmc("File:Cannabis drying room.jpg")),
+    ("Pieds mères", _wmc("File:Mother plants in flower.jpg")),
+    ("Serre", _wmc("File:Cannabis flowering in a greenhouse.jpg")),
+    ("Début floraison", _wmc("File:Blooming cannabis plant by My 420 Tours.jpg")),
+]
 
 def esc(t):
     return ihtml.escape(str(t)) if t is not None else ""
 
-def photo_for(s, for_docs):
-    """Retourne (src, credit). for_docs=True -> chemins sous docs/."""
-    base = "assets/" if for_docs else "../images/"
+def photo_for(s, for_docs=False):
+    """Retourne (src, credit). Toutes les images sont hotlinkées (Wikimedia CC ou Leafly)."""
     pu = s.get("photo_url")
-    if pu:
-        if pu.startswith("http"):
-            return pu, "© Leafly — photo d'illustration"
-        rel = pu.replace("images/", "")
-        return base + rel, s.get("photo_credit") or ""
+    if pu and pu.startswith("http"):
+        return pu, "© Leafly — photo d'illustration" if "leafly" in pu else "Wikimedia Commons — CC"
     if s["slug"] in SPECIFIC_PHOTOS:
-        return base + SPECIFIC_PHOTOS[s["slug"]], "Wikimedia Commons — CC BY-SA"
-    return base + DEFAULT_PHOTO, ""
+        return SPECIFIC_PHOTOS[s["slug"]], "Wikimedia Commons — CC BY-SA"
+    return DEFAULT_PHOTO, ""
 
 def md_section(title, body):
     return f"## {title}\n\n{body}\n\n" if body and body != "—" else ""
@@ -171,7 +179,7 @@ table.c3 th{background:var(--card2)}
 </main>
 <div id="modal"><div class="sheet" id="sheet"></div></div>
 <script>
-const FALLBACK="assets/produits/bud-macro.jpg";
+const FALLBACK="__FALLBACK__";
 let DATA=[];
 const $=id=>document.getElementById(id);
 const CAT={catalogue:"Catalogue",champion:"Championne",classique:"Classique",reference:"Référence",landrace:"Landrace",perso:"Perso"};
@@ -236,9 +244,8 @@ Promise.all([fetch("data/strains-1.json"),fetch("data/strains-2.json")]).then(rs
 });
 function photoSrc(s){
   if(s.photo_url&&/^https?:/.test(s.photo_url))return s.photo_url;
-  if(s.photo_url)return "assets/"+s.photo_url.replace(/^images\//,"");
-  const sp={"wedding-cake":"assets/produits/wedding-cake.jpg","sour-diesel":"assets/produits/sour-diesel.jpg","do-si-dos":"assets/produits/do-si-dos.jpg","presidential-kush":"assets/produits/presidential-kush.jpg"};
-  return sp[s.slug]||"assets/produits/bud-macro.jpg";
+  const sp=__SPECIFIC_JS__;
+  return sp[s.slug]||FALLBACK;
 }
 ["q","fcat","ftype","sort"].forEach(id=>$(id).addEventListener("input",render));
 </script></body></html>
@@ -258,7 +265,9 @@ ABOUT_HTML = """<h2>À propos</h2>
 <p>Catalogue de génétiques cannabis : fiches style Leafly (arômes, terpènes, effets, lignée, culture), photos et tips de culture.</p>
 <p><strong>Données :</strong> compilées de recherches sourcées (breeders officiels, Leafly, SeedFinder, résultats de coupes 2020–2026). Les champs non publiés sont omis — rien n'est inventé.</p>
 <p><strong>Images :</strong> Wikimedia Commons (Creative Commons, crédits dans <em>images/CREDITS.md</em>) et liens Leafly avec attribution.</p>
-<p><strong>Contribuer :</strong> ajoutez vos photos de culture dans <em>images/</em> et complétez les fiches via pull request.</p>"""
+<p><strong>Contribuer :</strong> ajoutez vos photos de culture dans <em>images/</em> et complétez les fiches via pull request.</p>
+<h3>En culture — galerie (Wikimedia Commons, CC)</h3>
+<div class="grid">__GALLERY__</div>"""
 
 def build():
     strains = json.load(open(os.path.join(ROOT,"data","strains-1.json"))) + json.load(open(os.path.join(ROOT,"data","strains-2.json")))
@@ -275,9 +284,17 @@ def build():
     shutil.copy(os.path.join(ROOT,"data","strains-2.json"), os.path.join(dd, "strains-2.json"))
     da = os.path.join(DOCS, "assets")
     if os.path.exists(da): shutil.rmtree(da)
-    shutil.copytree(os.path.join(ROOT, "images"), da)
+    os.makedirs(da, exist_ok=True)
+    shutil.copy(os.path.join(ROOT, "images", "CREDITS.md"), os.path.join(da, "CREDITS.md"))
     tips_md = open(os.path.join(ROOT, "tips-culture", "guide.md")).read()
-    page = INDEX_HTML.replace("__C3__", C3_HTML).replace("__TIPS__", md_to_html(tips_md)).replace("__ABOUT__", ABOUT_HTML)
+    gallery = "\n".join(
+        f'<div class="card"><img loading="lazy" src="{u}" alt="{n}"><div class="b"><div class="br">{n}</div></div></div>'
+        for n, u in CULTURE_PHOTOS)
+    about = ABOUT_HTML.replace("__GALLERY__", gallery)
+    spec_js = json.dumps(SPECIFIC_PHOTOS, ensure_ascii=False)
+    page = (INDEX_HTML.replace("__C3__", C3_HTML).replace("__TIPS__", md_to_html(tips_md))
+            .replace("__ABOUT__", about).replace("__FALLBACK__", DEFAULT_PHOTO)
+            .replace("__SPECIFIC_JS__", spec_js))
     open(os.path.join(DOCS, "index.html"), "w").write(page)
     open(os.path.join(DOCS, ".nojekyll"), "w").write("")
     print(f"fiches: {len(strains)}, index.html OK, assets copiés")

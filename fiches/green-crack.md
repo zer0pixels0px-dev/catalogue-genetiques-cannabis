@@ -1,6 +1,6 @@
 # Green Crack
 
-![Green Crack](../images/produits/bud-macro.jpg)
+![Green Crack](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Cannabis_bloom.JPG/1280px-Cannabis_bloom.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 **Type :** Sativa (sativa 60%) | **Breeder :** Cecil C. (Ohio → Athens, Géorgie), fin 1980s/début 1990s ; appelée « Cush » à l'origine, renommée par Snoop Dogg début 2000s. | **THC :** 20–25 %
 

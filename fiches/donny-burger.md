@@ -1,6 +1,6 @@
 # Donny Burger
 
-![Donny Burger](../images/produits/bud-macro.jpg)
+![Donny Burger](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Cannabis_bloom.JPG/1280px-Cannabis_bloom.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 **Type :** Indica (indica / hybride indica.) | **Breeder :** Skunk House Genetics (Michigan). Source : Leafly HighLight Dec 2024. | **THC :** 26–32 %
 

@@ -1,6 +1,6 @@
 # Durban Lime
 
-![Durban Lime](../images/produits/bud-macro.jpg)
+![Durban Lime](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Cannabis_bloom.JPG/1280px-Cannabis_bloom.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 **Breeder :** Punch Extracts × Luma Farms
 

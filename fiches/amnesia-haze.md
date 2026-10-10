@@ -1,6 +1,6 @@
 # Amnesia Haze
 
-![Amnesia Haze](../images/produits/bud-macro.jpg)
+![Amnesia Haze](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Cannabis_bloom.JPG/1280px-Cannabis_bloom.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 **Type :** Sativa (sativa 70/30) | **Breeder :** Soma Seeds. | **THC :** 20 %
 

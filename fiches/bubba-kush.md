@@ -1,6 +1,6 @@
 # Bubba Kush
 
-![Bubba Kush](../images/produits/bud-macro.jpg)
+![Bubba Kush](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Cannabis_bloom.JPG/1280px-Cannabis_bloom.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 **Type :** Indica (indica-dominante) | **Breeder :** Matt « Bubba » Berger, Floride → Los Angeles, milieu des années 1990. | **THC :** jusqu'à 20 %
 

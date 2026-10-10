@@ -1,6 +1,6 @@
 # GMO Cookies
 
-![GMO Cookies](../images/produits/bud-macro.jpg)
+![GMO Cookies](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Cannabis_bloom.JPG/1280px-Cannabis_bloom.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 **Type :** Indica (indica-dominant (60–90% i)) | **Breeder :** Mamiko Seeds (also Compound "GMO") | **THC :** 22–30 %
 

@@ -1,6 +1,6 @@
 # Cinderella 99
 
-![Cinderella 99](../images/produits/bud-macro.jpg)
+![Cinderella 99](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Cannabis_bloom.JPG/1280px-Cannabis_bloom.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 **Type :** Sativa (sativa-dominante) | **Breeder :** Brothers Grimm (Mr. Soul), 1997. | **THC :** 20–23 %
 

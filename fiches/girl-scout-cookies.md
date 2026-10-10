@@ -1,6 +1,6 @@
 # Girl Scout Cookies
 
-![Girl Scout Cookies](../images/produits/bud-macro.jpg)
+![Girl Scout Cookies](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Cannabis_bloom.JPG/1280px-Cannabis_bloom.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 **Type :** Indica (indica 60%) | **Breeder :** Cookie Fam (Berner), Bay Area, ~2010–2012. | **THC :** 19–28 %
 

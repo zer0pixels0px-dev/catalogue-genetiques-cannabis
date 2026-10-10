@@ -1,6 +1,6 @@
 # Blue Face
 
-![Blue Face](../images/produits/bud-macro.jpg)
+![Blue Face](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Cannabis_bloom.JPG/1280px-Cannabis_bloom.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 **Type :** Indica (non publiée (classée indica aux ht cups).) | **Breeder :** Fig Farms. Source : site officiel figfarms.com/strains.
 

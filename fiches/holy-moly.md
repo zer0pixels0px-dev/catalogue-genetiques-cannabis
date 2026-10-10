@@ -1,6 +1,6 @@
 # Holy Moly!
 
-![Holy Moly!](../images/produits/bud-macro.jpg)
+![Holy Moly!](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Cannabis_bloom.JPG/1280px-Cannabis_bloom.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 **Type :** Hybrid (hybrid 50/50) | **Breeder :** Fig Farms
 

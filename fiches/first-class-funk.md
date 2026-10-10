@@ -1,6 +1,6 @@
 # First Class Funk
 
-![First Class Funk](../images/produits/bud-macro.jpg)
+![First Class Funk](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Cannabis_bloom.JPG/1280px-Cannabis_bloom.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 **Type :** Indica (indica-dominant ~60/40.) | **Breeder :** Compound Genetics (ère Chris Lynch). Source : Leafly (index). | **THC :** 26–35 %
 

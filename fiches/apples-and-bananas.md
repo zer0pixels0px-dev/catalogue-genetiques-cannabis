@@ -1,6 +1,6 @@
 # Apples & Bananas
 
-![Apples & Bananas](../images/produits/bud-macro.jpg)
+![Apples & Bananas](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Cannabis_bloom.JPG/1280px-Cannabis_bloom.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 **Type :** Indica (hybride équilibré à légère dominance indica ~55/45.) | **Breeder :** Compound Genetics, en collaboration avec Cookies Fam. Source : seedsherenow (index). | **THC :** 26–32 %
 

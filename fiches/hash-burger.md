@@ -1,6 +1,6 @@
 # Hash Burger
 
-![Hash Burger](../images/produits/bud-macro.jpg)
+![Hash Burger](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Cannabis_bloom.JPG/1280px-Cannabis_bloom.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 **Type :** Indica (hybride à dominance indica.) | **Breeder :** California Seed Bank — Respect & Mrs. Respect. Leafly, après enquête : "very likely primarily responsible". **Skunk Master Flex (Skunk House Genetics) revendique aussi le rôle de breeder principal** ; les deux camps ne se parlent plus. Statut : contesté / non confirmé définitivement. | **THC :** 20–30 %
 

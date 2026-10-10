@@ -1,6 +1,6 @@
 # Blue Zushi
 
-![Blue Zushi](../images/produits/bud-macro.jpg)
+![Blue Zushi](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Cannabis_bloom.JPG/1280px-Cannabis_bloom.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 **Type :** Indica (hybride à dominance indica 60/40.) | **Breeder :** The Ten Co. Source : howhighhub (index). | **THC :** 22–28 %
 

@@ -1,6 +1,6 @@
 # Big Bud
 
-![Big Bud](../images/produits/bud-macro.jpg)
+![Big Bud](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Cannabis_bloom.JPG/1280px-Cannabis_bloom.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 **Type :** Indica (indica-dominante) | **Breeder :** Sensi Seeds (graines début 1990s ; clone original USA → Hollande années 1980). | **THC :** 16–22 %
 
