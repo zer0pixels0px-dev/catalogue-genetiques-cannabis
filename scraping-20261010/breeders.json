@@ -1,0 +1,91 @@
+[
+ {
+  "name": "Barney's Farm",
+  "sources": [
+   "GrowDiaries"
+  ],
+  "strain_count": 1,
+  "note": null
+ },
+ {
+  "name": "Bloom Seed Co",
+  "sources": [
+   "GrowDiaries"
+  ],
+  "strain_count": 1,
+  "note": null
+ },
+ {
+  "name": "Compound Genetics",
+  "sources": [
+   "GrowDiaries"
+  ],
+  "strain_count": 1,
+  "note": null
+ },
+ {
+  "name": "Cookies Seed Bank",
+  "sources": [
+   "GrowDiaries"
+  ],
+  "strain_count": 1,
+  "note": null
+ },
+ {
+  "name": "Exotic Genetix",
+  "sources": [
+   "GrowDiaries"
+  ],
+  "strain_count": 1,
+  "note": null
+ },
+ {
+  "name": "Fast Buds",
+  "sources": [
+   "GrowDiaries",
+   "FastBuds"
+  ],
+  "strain_count": 112,
+  "note": null
+ },
+ {
+  "name": "Green House Seeds",
+  "sources": [
+   "GrowDiaries"
+  ],
+  "strain_count": 1,
+  "note": null
+ },
+ {
+  "name": "Humboldt Seed Company",
+  "sources": [
+   "GrowDiaries"
+  ],
+  "strain_count": 1,
+  "note": null
+ },
+ {
+  "name": "Royal Queen Seeds",
+  "sources": [
+   "GrowDiaries (rapport /seeds)"
+  ],
+  "strain_count": null,
+  "note": "mention rapport uniquement, comptage non vérifié"
+ },
+ {
+  "name": "Top Dawg Seeds",
+  "sources": [
+   "GrowDiaries"
+  ],
+  "strain_count": 1,
+  "note": null
+ },
+ {
+  "name": "Umami Seed Company",
+  "sources": [
+   "GrowDiaries"
+  ],
+  "strain_count": 2,
+  "note": null
+ }
+]

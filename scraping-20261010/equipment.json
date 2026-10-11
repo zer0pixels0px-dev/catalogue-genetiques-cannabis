@@ -1,0 +1,57 @@
+[
+ {
+  "name": "Mars Hydro",
+  "category": "marque d'équipement de culture",
+  "brand": "Mars Hydro",
+  "url": null,
+  "image_url": null,
+  "price": null,
+  "price_currency": null,
+  "source": "GrowDiaries (rapport /equipment)",
+  "note": "classement de marques observé ; aucun produit/équipement scrapé en JSON"
+ },
+ {
+  "name": "Spider Farmer",
+  "category": "marque d'équipement de culture",
+  "brand": "Spider Farmer",
+  "url": null,
+  "image_url": null,
+  "price": null,
+  "price_currency": null,
+  "source": "GrowDiaries (rapport /equipment)",
+  "note": "classement de marques observé ; aucun produit/équipement scrapé en JSON"
+ },
+ {
+  "name": "ViparSpectra",
+  "category": "marque d'équipement de culture",
+  "brand": "ViparSpectra",
+  "url": null,
+  "image_url": null,
+  "price": null,
+  "price_currency": null,
+  "source": "GrowDiaries (rapport /equipment)",
+  "note": "classement de marques observé ; aucun produit/équipement scrapé en JSON"
+ },
+ {
+  "name": "SANlight",
+  "category": "marque d'équipement de culture",
+  "brand": "SANlight",
+  "url": null,
+  "image_url": null,
+  "price": null,
+  "price_currency": null,
+  "source": "GrowDiaries (rapport /equipment)",
+  "note": "classement de marques observé ; aucun produit/équipement scrapé en JSON"
+ },
+ {
+  "name": "Lumatek",
+  "category": "marque d'équipement de culture",
+  "brand": "Lumatek",
+  "url": null,
+  "image_url": null,
+  "price": null,
+  "price_currency": null,
+  "source": "GrowDiaries (rapport /equipment)",
+  "note": "classement de marques observé ; aucun produit/équipement scrapé en JSON"
+ }
+]

@@ -1,0 +1,52 @@
+[
+ {
+  "name": "Advanced Nutrients",
+  "brand": "Advanced Nutrients",
+  "url": null,
+  "image_url": null,
+  "price": null,
+  "price_currency": null,
+  "source": "GrowDiaries (rapport /nutrients)",
+  "note": "classement de marques observé ; aucun produit/nutriment scrapé en JSON"
+ },
+ {
+  "name": "BioBizz",
+  "brand": "BioBizz",
+  "url": null,
+  "image_url": null,
+  "price": null,
+  "price_currency": null,
+  "source": "GrowDiaries (rapport /nutrients)",
+  "note": "classement de marques observé ; aucun produit/nutriment scrapé en JSON"
+ },
+ {
+  "name": "Terra Aquatica",
+  "brand": "Terra Aquatica",
+  "url": null,
+  "image_url": null,
+  "price": null,
+  "price_currency": null,
+  "source": "GrowDiaries (rapport /nutrients)",
+  "note": "classement de marques observé ; aucun produit/nutriment scrapé en JSON"
+ },
+ {
+  "name": "Plagron",
+  "brand": "Plagron",
+  "url": null,
+  "image_url": null,
+  "price": null,
+  "price_currency": null,
+  "source": "GrowDiaries (rapport /nutrients)",
+  "note": "classement de marques observé ; aucun produit/nutriment scrapé en JSON"
+ },
+ {
+  "name": "Canna",
+  "brand": "Canna",
+  "url": null,
+  "image_url": null,
+  "price": null,
+  "price_currency": null,
+  "source": "GrowDiaries (rapport /nutrients)",
+  "note": "classement de marques observé ; aucun produit/nutriment scrapé en JSON"
+ }
+]
